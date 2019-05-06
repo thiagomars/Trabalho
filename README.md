@@ -12,14 +12,14 @@
    
    4.1.2. <i>Após digitar o número da conta, logo abaixo, o usuário deve digitar a quantia/valor que será retirado. Atenção: caso seja um valor decimal, deve-se utilizar ponto no lugar da vírgula;</i>
 
-   4.1.3. <i>Para concluir, basta clicar  FINALIZAR para confirmar a operação, caso o valor ultrapasse o saldo total na conta, e o tipo de conta for CONTA ESPECIAL, o valor será debitado de acordo com a quantia que o cliente tem na conta, e a diferença será debitada forma de cheque especial; caso não seja do tipo CONTA ESPECIAL, irá aparecer uma mensagem informando que não foi possível completar a operação;</i>
+   4.1.3. <i>Para concluir, basta clicar em FINALIZAR para confirmar a operação, caso o valor ultrapasse o saldo total na conta, e o tipo de conta for CONTA ESPECIAL, o valor será debitado de acordo com a quantia que o cliente tem na conta, e a diferença será debitada em forma de cheque especial; caso não seja do tipo CONTA ESPECIAL, irá aparecer uma mensagem informando que não foi possível completar a operação;</i>
 
 
-   4.2.1. <i>Se selecionado DEPÓSITO, vai abrir uma tela onde primeiramente o usuário vai digitar o número da conta do cliente;</i>
+   4.2.1. <i>Se selecionado DEPÓSITO, vai abrir uma tela onde, primeiramente o usuário vai digitar o número da conta do cliente;</i>
 
-   4.2.2. <i>Logo após, o usuário deve digitar o valor que será acrescentado a conta digitada. O valor digitado, caso seja decimal, deve-se utilizar ponto no ligar da vírgula;</i>
+   4.2.2. <i>Logo após, o usuário deve digitar o valor que será acrescentado a conta digitada. O valor digitado, caso seja decimal, deve-se utilizar ponto no lugar da vírgula;</i>
 
-   4.2.3. <i>Para concluir  basta clicar FINALIZAR e pronto, irá aparecer uma mensagem se ocorreu todo bem com o novo saldo;</i>
+   4.2.3. <i>Para concluir  basta clicar em FINALIZAR e pronto, irá aparecer uma mensagem se ocorreu todo bem com o novo saldo;</i>
 
 
    4.3.1. <i>Se selecionado reajuste, vai abrir uma tela pedindo para o usuário digitar o valor da taxa de reajuste para a CONTA POUPANÇA, se não for digitado nada, a taxa será a mesma informada no início da execução do programa;</i>
@@ -27,11 +27,11 @@
    4.3.2. <i>Para concluir, basta clicar em FINALIZAR e pronto, será mostrado uma mensagem informando o novo saldo da CONTA POUPANÇA;</i>
 
 
-   4.4.1. <i>Se selecionado TRANSFERÊNCIA, na esquerda, o usuário deve digitar o número da conta em que o dinheiro vai sair e, na direita, o número da conta que vai receber o valor. Os dados vão aparecer automaticamente, verifique-os para ter certeza que estão todos corretos;</i>
+   4.4.1. <i>Se selecionado TRANSFERÊNCIA, na esquerda, o usuário deve digitar o número da conta em que o dinheiro vai sair e, na direita, o número da conta que vai receber o valor. Os dados vão aparecer automaticamente (Nome do Titular e o Saldo na Conta), verifique-os para ter certeza que estão todos corretos;</i>
 
    4.4.2. <i>Após digitar os dados das conta, logo abaixo deve ser digitado o valor da transferência, se for número decimal, deve-se utilizar ponto ao invés da vírgula; </i>
 
-   4.4.3. <i>Para concluir, basta clicar em FINALIZAR e pronto, irá aparecer uma mensagem informando os novos saldos das contas;</i>
+   4.4.3. <i>Para concluir, basta clicar em FINALIZAR e pronto, irá aparecer uma mensagem informando se foi possível realizar a operação e os novos saldos de ambas as contas;</i>
 
 
    4.5.1. <i>Se selecionado VER SALDOS, vai abrir uma janela mostrando todos os dados das três contas;</i>
@@ -39,10 +39,10 @@
    4.5 2. <i>Para sair basta clicar em OK. Atenção: nenhum desses dados nesta janela são editáveis;</i>
 
 
-   4.6.1. <i>Se selecionado SAIR, o programa irá encerrar todas as operações e deletar todos os dados salvos, e irá fechar.</i>.
+   4.6.1. <i>Se selecionado SAIR, o programa irá encerrar todas as operações e deletar todos os dados salvos, e irá fechar o sistema.</i>
 
 
 <b>Restrições:</b>
-1. <i>Só é possível criar um usuário por conta, totalizando três usuários ao todo. Esse é o máximo e o mínimo de usuários, nada a mais e nem a menos;</i>
+1. <i>Só é possível criar um usuário por conta, totalizando três usuários ao todo. Esse é o máximo e o mínimo de usuários, nada a mais e nada menos;</i>
 
 2. <i>Sempre que for digitado um número decimal, ao invés de se utilizar a vírgula, deve ser utilizado o ponto; </i>
