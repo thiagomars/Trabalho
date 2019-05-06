@@ -6,7 +6,8 @@
 1. <i>Ao executar o programa, o usuário deve digitar os dados do cliente da CONTA COMUM, o nome, número da conta e o saldo inicial, nessa ordem;</i>
 2. <i>Após digitar os dados do cliente da CONTA COMUM, o usuário deve digitar os dados do cliente da CONTA POUPANÇA, nome, número da conta, saldo inicial e a taxa de reajuste, também nessa ordem; </i>
 3. <i>Os próximos dados a serem inseridos, é o da CONTA ESPECIAL, o nome do titular, número da conta, saldo inicial, o limite para o cheque especial e a taxa de juros dessa taxa, todos os dados seguindo a ordem;</i>
-4. <i>Após digitar todos os dados, vai abrir uma tela com todas as opções: Saque, Deposito, Reajuste, Transferência, Ver Saldos e Sair;</i>
+4. <i>Após digitar todos os dados, vai abrir uma tela com todas as opções: Saque, Deposito, Reajuste, Transferência, Ver Saldos e Sair; </i>
+
    4.1.1. <i>Se selecionado SAQUE, vai abrir uma tela onde o usuário deve digitar o número da conta que será retirado/sacado a quantia em dinheiro;</i>
    4.1.2. <i>Após digitar o número da conta, logo abaixo, o usuário deve digitar a quantia/valor que será retirado. Atenção: caso seja um valor decimal, deve-se utilizar ponto no lugar da vírgula;</i>
    4.1.3. <i>Para concluir, basta clicar  FINALIZAR para confirmar a operação, caso o valor ultrapasse o saldo total na conta, e o tipo de conta for CONTA ESPECIAL, o valor será debitado de acordo com a quantia que o cliente tem na conta, e a diferença será debitada forma de cheque especial; caso não seja do tipo CONTA ESPECIAL, irá aparecer uma mensagem informando que não foi possível completar a operação;</i>
