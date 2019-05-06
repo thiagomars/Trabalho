@@ -9,8 +9,8 @@
 4. <i>Após digitar todos os dados, vai abrir uma tela com todas as opções: Saque, Deposito, Reajuste, Transferência, Ver Saldos e Sair; </i>
 
    4.1.1. <i>Se selecionado SAQUE, vai abrir uma tela onde o usuário deve digitar o número da conta que será retirado/sacado a quantia em dinheiro;</i>
-   4.1.2. <i>Após digitar o número da conta, logo abaixo, o usuário deve digitar a quantia/valor que será retirado. Atenção: caso seja um valor decimal, deve-se utilizar ponto no lugar da vírgula;</i>
-   4.1.3. <i>Para concluir, basta clicar  FINALIZAR para confirmar a operação, caso o valor ultrapasse o saldo total na conta, e o tipo de conta for CONTA ESPECIAL, o valor será debitado de acordo com a quantia que o cliente tem na conta, e a diferença será debitada forma de cheque especial; caso não seja do tipo CONTA ESPECIAL, irá aparecer uma mensagem informando que não foi possível completar a operação;</i>
+   \n 4.1.2. <i>Após digitar o número da conta, logo abaixo, o usuário deve digitar a quantia/valor que será retirado. Atenção: caso seja um valor decimal, deve-se utilizar ponto no lugar da vírgula;</i>
+   \n 4.1.3. <i>Para concluir, basta clicar  FINALIZAR para confirmar a operação, caso o valor ultrapasse o saldo total na conta, e o tipo de conta for CONTA ESPECIAL, o valor será debitado de acordo com a quantia que o cliente tem na conta, e a diferença será debitada forma de cheque especial; caso não seja do tipo CONTA ESPECIAL, irá aparecer uma mensagem informando que não foi possível completar a operação;</i>
 
    4.2.1. <i>Se selecionado DEPÓSITO, vai abrir uma tela onde primeiramente o usuário vai digitar o número da conta do cliente;</i>
    4.2.2. <i>Logo após, o usuário deve digitar o valor que será acrescentado a conta digitada. O valor digitado, caso seja decimal, deve-se utilizar ponto no ligar da vírgula;</i>
